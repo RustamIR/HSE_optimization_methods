@@ -1,2 +1,2 @@
-# HSE_optimization_methods
+# HSE numerical optimization methods
 Numerical optimization methods (HSE)
